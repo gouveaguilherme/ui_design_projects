@@ -1,4 +1,4 @@
-#Welcome to my UI Design portfolio repository! Here, I showcase some of the UI design projects I've worked on. From web interfaces to mobile applications, 
+Welcome to my UI Design portfolio repository! Here, I showcase some of the UI design projects I've worked on. From web interfaces to mobile applications, 
 each project represents my passion for creating intuitive and visually appealing user experiences.
 
 Projetcs
