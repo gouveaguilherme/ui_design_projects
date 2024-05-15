@@ -1,13 +1,15 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-<div class="description">Welcome to my UI Design portfolio repository! Here, I showcase some of the UI design projects I've worked on. From web interfaces to mobile applications, 
-each project represents my passion for creating intuitive and visually appealing user experiences.</div>
+<p class="description">Welcome to my UI Design portfolio repository! Here, I showcase some of the UI design projects I've worked on. From web interfaces to mobile applications, 
+each project represents my passion for creating intuitive and visually appealing user experiences.</p>
 
-# Projetcs
+<br>
 
-## 2020 - 2021
+Projetcs
 
-### Delinea Edtech - Deduca
+2020 - 2021
+
+Delinea Edtech - Deduca
 
 Suggestion Center Desktop version = https://www.figma.com/design/EqaL9fUeI6LFi3o0MokSDb/Central-de-Sugest%C3%B5es---Deduca?node-id=0%3A1&t=cttGx8gyVmEDSZUI-1
 Suggestion Center Mobile version = https://www.figma.com/design/EqaL9fUeI6LFi3o0MokSDb/Central-de-Sugest%C3%B5es---Deduca?node-id=43%3A1155&t=cttGx8gyVmEDSZUI-1
