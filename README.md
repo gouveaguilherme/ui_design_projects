@@ -1,8 +1,7 @@
-🌟 Welcome to my <strong>UI Design portfolio</strong> repository! 🌟
-<br>
-Here, I showcase some of the <strong>UI Design</strong> projects I've worked on. From web interfaces to mobile applications, 
-each project represents my passion for creating intuitive and visually appealing user experiences.
+# 🌟 Welcome to my <strong>UI Design portfolio</strong> repository! 🌟
+## Here, I showcase some of the <strong>UI Design</strong> projects I've worked on. From web interfaces to mobile applications, each project represents my passion for creating intuitive and visually appealing user experiences.
 
+## 🚀 Projects I've worked on
 
 ### [2024] Acerta! Promotora
 
@@ -14,34 +13,34 @@ each project represents my passion for creating intuitive and visually appealing
 * [Foundation](https://www.figma.com/design/FvHkI8XVn865pgSCDAYCvm/ACERTA!-DS---%F0%9F%A7%B1-Foundations?node-id=1918%3A643&t=xMIOjbgx6kJLojKx-1)
 
 </details>
-<br>
+
 <details>
 
 <summary>💻 Projects</summary>
 
 * [Proposal consult](https://www.figma.com/design/ilUQKWKiCV21igD1Ghs5lk/Consulta-de-propostas?node-id=152%3A715&t=lYo4vlgqgIg7MMtJ-1)
 
-  <img style="border-radius:8px;" src="./acerta_promotora/consulta-de-propostas.jpg" alt="" width="200"/>
+  <img style="border-radius:8px;" src="./acerta_promotora/consulta-de-propostas.jpg" alt="propostal-consult" width="200"/>
 
 * [Client with limit](https://www.figma.com/design/9zLwXTBTNtR3FSeohPPRu6/Clientes-com-limite?node-id=30%3A10867&t=pSYZ1Hp3MONy4UNr-1)
 
-  <img style="border-radius:8px;" src="./acerta_promotora/clientes-com-limite.jpg" alt="" width="200"/>
+  <img style="border-radius:8px;" src="./acerta_promotora/clientes-com-limite.jpg" alt="client-with-limit" width="200"/>
 
 * [Mailing](https://www.figma.com/design/cbnEdy9pgxOCrQ51EYbkRw/Extra%C3%A7%C3%A3o-de-Clientes?node-id=79%3A2561&t=HQfT3qrDG5zFPiP7-1)
 
-  <img style="border-radius:8px;" src="./acerta_promotora/mailing.jpg" alt="" width="200"/>
+  <img style="border-radius:8px;" src="./acerta_promotora/mailing.jpg" alt="mailing" width="200"/>
 
 * [Sales Flow](https://www.figma.com/design/VDmwqbhjHmSO9vfp038xks/Fluxo-de-vendas?node-id=409%3A15588&t=1FujHydaQeml0Qfw-1)
   
-  <img style="border-radius:8px;" src="./acerta_promotora/simulacao.jpg" alt="" width="200"/>
+  <img style="border-radius:8px;" src="./acerta_promotora/simulacao.jpg" alt="sales-flow" width="200"/>
 
 * [Customer Service Screen](https://www.figma.com/design/p2tkZ15D2k090bIgq9k564/Tela-de-atendimento?node-id=0%3A1&t=xe8X2qyfxLmPZpho-1)
   
-  <img style="border-radius:8px;" src="./acerta_promotora/tela-de-atendimento.png" alt="" width="200"/>
+  <img style="border-radius:8px;" src="./acerta_promotora/tela-de-atendimento.png" alt="customer-service-screen" width="200"/>
 
 </details>
 
-## Prova Fácil - 2023 
+### [2023] Prova Fácil: Education Management Platform
 
 ### [Autoagendamento](https://www.figma.com/design/is80VdTN9LGL655ICXTgXC/Autoagendamento?node-id=0%3A1&t=7nVhgR894Qzh1XyC-1)
 
