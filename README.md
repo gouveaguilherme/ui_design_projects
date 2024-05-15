@@ -1,11 +1,11 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-<p style="background-color: #153448; padding: 24px; border-radius: 8px; font-size: 20px;">🌟 Welcome to my <strong>UI Design portfolio</strong> repository! 🌟<br>Here, I showcase some of the <strong>UI Design</strong> projects I've worked on. From web interfaces to mobile applications, 
-each project represents my passion for creating intuitive and visually appealing user experiences.</p>
+<div style="background-color: #153448; padding: 24px; border-radius: 8px; font-size: 20px;">🌟 Welcome to my <strong>UI Design portfolio</strong> repository! 🌟<br>Here, I showcase some of the <strong>UI Design</strong> projects I've worked on. From web interfaces to mobile applications, 
+each project represents my passion for creating intuitive and visually appealing user experiences.</div>
 
 <br>
 
-<p style="font-size: 32px; font-weight:600;">Projects</p>
+<div style="font-size: 32px; font-weight:600;">Projects</div>
 
 ## 2024
 
