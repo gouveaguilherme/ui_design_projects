@@ -1,7 +1,6 @@
-# 🌟 Welcome to my <strong>UI Design portfolio</strong> repository! 🌟
-## Here, I showcase some of the <strong>UI Design</strong> projects I've worked on. From web interfaces to mobile applications, each project represents my passion for creating intuitive and visually appealing user experiences.
+<h1 style="padding:8px;">🌟 Welcome to my <strong>UI Design portfolio</strong> repository! 🌟<br /> <p style="font-size: 20px; margin-top:16px;">Here, I showcase some of the <strong>UI Design</strong> projects I've worked on. From web interfaces to mobile applications, each project represents my passion for creating intuitive and visually appealing user experiences.</p></h1>
 
-## 🚀 Projects I've worked on
+<h3 style="font-size: 32px;">🚀 Projects I've worked on<h3>
 
 ### [2024] Acerta! Promotora
 
