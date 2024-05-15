@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles/style.css">
 
-<h1 class="description">Welcome to my UI Design portfolio repository! Here, I showcase some of the UI design projects I've worked on. From web interfaces to mobile applications, 
-each project represents my passion for creating intuitive and visually appealing user experiences.</h1>
+<p class="description">Welcome to my UI Design portfolio repository! Here, I showcase some of the UI design projects I've worked on. From web interfaces to mobile applications, 
+each project represents my passion for creating intuitive and visually appealing user experiences.</p>
 
 Projetcs
 
