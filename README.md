@@ -1,22 +1,76 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-<p class="description">Welcome to my UI Design portfolio repository! Here, I showcase some of the UI design projects I've worked on. From web interfaces to mobile applications, 
+<p style="background-color: #153448; padding: 24px; border-radius: 8px; font-size: 20px;">🌟 Welcome to my <strong>UI Design portfolio</strong> repository! 🌟<br>Here, I showcase some of the <strong>UI Design</strong> projects I've worked on. From web interfaces to mobile applications, 
 each project represents my passion for creating intuitive and visually appealing user experiences.</p>
 
 <br>
 
-Projetcs
+<p style="font-size: 32px; font-weight:600;">Projects</p>
 
-2020 - 2021
+## 2024
 
-Delinea Edtech - Deduca
+<img style="border-radius:8px;" src="./logos/logo-acerta.png" alt="Acerta! Promotora" width="200"/>
 
-Suggestion Center Desktop version = https://www.figma.com/design/EqaL9fUeI6LFi3o0MokSDb/Central-de-Sugest%C3%B5es---Deduca?node-id=0%3A1&t=cttGx8gyVmEDSZUI-1
-Suggestion Center Mobile version = https://www.figma.com/design/EqaL9fUeI6LFi3o0MokSDb/Central-de-Sugest%C3%B5es---Deduca?node-id=43%3A1155&t=cttGx8gyVmEDSZUI-1
-User search by profession (Talent Page) = https://www.figma.com/design/PiFkTQuryEbuv1jjGZyrom/Talentos---%5BDeduca%5D?node-id=2%3A22&t=Irc9y2whxHXaNElT-1
-Educational content management = https://www.figma.com/design/rkPI9UEJdLYdWOkPg3Zjn9/Gest%C3%A3o-de-Conte%C3%BAdo---%5BDeduca%5D?node-id=2%3A22&t=dsvv4MOeggG0YBA2-1
-Job Opportunity creation page = https://www.figma.com/design/mP09D6LgWmWfupFHZZNwl1/Oportunidades---%5BDeduca%5D?node-id=2%3A22&t=mvP5j54nPwUALVGP-1
-Create colletion of content = https://www.figma.com/design/3zfnxlk5Zo9yXN13smV0yS/Cole%C3%A7%C3%A3o---%5BDeduca%5D?node-id=2%3A22&t=31k1tRbNxqEC0iQP-1
+[tela de atendimento](https://www.figma.com/design/p2tkZ15D2k090bIgq9k564/Tela-de-atendimento?node-id=0%3A1&t=xe8X2qyfxLmPZpho-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[consulta de propostas](https://www.figma.com/design/ilUQKWKiCV21igD1Ghs5lk/Consulta-de-propostas?node-id=152%3A715&t=lYo4vlgqgIg7MMtJ-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[clientes com limite](https://www.figma.com/design/9zLwXTBTNtR3FSeohPPRu6/Clientes-com-limite?node-id=30%3A10867&t=pSYZ1Hp3MONy4UNr-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[extracao de clientes](https://www.figma.com/design/cbnEdy9pgxOCrQ51EYbkRw/Extra%C3%A7%C3%A3o-de-Clientes?node-id=79%3A2561&t=HQfT3qrDG5zFPiP7-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[fluxo de vendas](https://www.figma.com/design/VDmwqbhjHmSO9vfp038xks/Fluxo-de-vendas?node-id=409%3A15588&t=1FujHydaQeml0Qfw-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[design system - components](https://www.figma.com/design/7stZu84smWutAwDseRoDwj/ACERTA!-DS----%F0%9F%A7%A9-Components?node-id=1918%3A643&t=S0p2qQuqIB0oxA6H-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[design system - foundation](https://www.figma.com/design/FvHkI8XVn865pgSCDAYCvm/ACERTA!-DS---%F0%9F%A7%B1-Foundations?node-id=1918%3A643&t=xMIOjbgx6kJLojKx-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+
+2023
+
+Prova Fácil
+
+[autoagendamento](https://www.figma.com/design/is80VdTN9LGL655ICXTgXC/Autoagendamento?node-id=0%3A1&t=7nVhgR894Qzh1XyC-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[cadastro de agendamento](https://www.figma.com/design/ZM3IgLB2UfalGQc3AsP71q/Cadastro-de-Agendamento?node-id=0%3A1&t=7l4Vfed946lb9gxk-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[design system](https://www.figma.com/design/M9wD5NpDKkvf6EqKz1KVEu/Design-System?node-id=7%3A838&t=3PFXmlXrMsNSzeKR-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+Zouti
+
+[Design system](https://www.figma.com/design/0m2TBhXwNcFSvflaOmF3OL/%5BZouti%5D---Style-Guide?node-id=1%3A20655&t=tACKrrp2TBHdmBfJ-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[product list](https://www.figma.com/design/B9IqLwHmhfi6SpDkZj4goH/Produtos?node-id=0%3A1&t=g9nK2WEark5xVy8f-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[general report](https://www.figma.com/design/WcSSfLfWuQnj2r7FgM8Bvz/Relat%C3%B3rio-Geral?node-id=96%3A1882&t=SOsZ1cA6VIMH2SOx-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[checkout](https://www.figma.com/design/YPwN5hxL5O1GznOtn8YdvP/Checkout-transparente?node-id=163%3A1149&t=1fBNPs380Qxvjgxc-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[checkout config](https://www.figma.com/design/Ux8jp21OU4K5AY5wwcJpRF/Checkout?node-id=946%3A4444&t=Wbb5AyOg2a0l3BFQ-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[configuration](https://www.figma.com/design/NC3u9ILqQicKUtu6NL3hDY/Configura%C3%A7%C3%B5es?node-id=1%3A3&t=cVUVb79Vj9nNVN6K-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[marketing config](https://www.figma.com/design/JH3NwA5jieB9cUD4MiiFHV/Marketing?node-id=611%3A2131&t=b2EyTXJCr7odqENO-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
+
+[order](https://www.figma.com/design/sNnWQteHei3q8QL0m68iwD/Pedidos?node-id=0%3A1&t=R5LxyPnv3dI1tbgn-1)
+    <img style="border-radius:8px;" src="#" alt="" width="200"/>
 
 2022
 
@@ -32,36 +86,31 @@ faturamento = https://www.figma.com/design/vowvWLnc6fIMtXyxFZsdxP/Faturamento---
 dashboard = https://www.figma.com/design/5pZoR5DKqPkhjyfprVAe8s/Dashboard---%5BDstore%5D?node-id=2%3A22&t=4ZTZbXWBcXCZVSsc-1
 design system = https://www.figma.com/design/ifqok4gBYY61YtARZkus37/%F0%9F%A7%A9-DStore---Design-System?node-id=235%3A1920&t=JKvT8Nwj1ScY0bd7-1
 
-2023
+### 2020 - 2021
 
-Prova Fácil
+* Delinea Edtech - Deduca
+    * [Suggestion Center (Desktop version)](https://www.figma.com/design/EqaL9fUeI6LFi3o0MokSDb/Central-de-Sugest%C3%B5es---Deduca?node-id=0%3A1&t=cttGx8gyVmEDSZUI-1)
+    
+      <img style="border-radius:8px;" src="./delinea/deduca/central_sugestoes-desktop.png" alt="suggestion-page" width="400"/>
+    
+    * [Suggestion Center (Mobile version)](https://www.figma.com/design/EqaL9fUeI6LFi3o0MokSDb/Central-de-Sugest%C3%B5es---Deduca?node-id=43%3A1155&t=cttGx8gyVmEDSZUI-1)
+        
+        <img style="border-radius:8px;" src="./delinea/deduca/central_sugestoes-mobile.png" alt="suggestion-page" width="200"/>
 
-autoagendamento = https://www.figma.com/design/is80VdTN9LGL655ICXTgXC/Autoagendamento?node-id=0%3A1&t=7nVhgR894Qzh1XyC-1
-cadastro de agendamento = https://www.figma.com/design/ZM3IgLB2UfalGQc3AsP71q/Cadastro-de-Agendamento?node-id=0%3A1&t=7l4Vfed946lb9gxk-1
-design system = https://www.figma.com/design/M9wD5NpDKkvf6EqKz1KVEu/Design-System?node-id=7%3A838&t=3PFXmlXrMsNSzeKR-1
+    * [User search by profession (Talent Page)](https://www.figma.com/design/PiFkTQuryEbuv1jjGZyrom/Talentos---%5BDeduca%5D?node-id=2%3A22&t=Irc9y2whxHXaNElT-1)
 
-Zouti
+        <img style="border-radius:8px;" src="./delinea/deduca/talent.png" alt="suggestion-page" width="400"/>
 
-Design system = https://www.figma.com/design/0m2TBhXwNcFSvflaOmF3OL/%5BZouti%5D---Style-Guide?node-id=1%3A20655&t=tACKrrp2TBHdmBfJ-1
-product list = https://www.figma.com/design/B9IqLwHmhfi6SpDkZj4goH/Produtos?node-id=0%3A1&t=g9nK2WEark5xVy8f-1
-general report = https://www.figma.com/design/WcSSfLfWuQnj2r7FgM8Bvz/Relat%C3%B3rio-Geral?node-id=96%3A1882&t=SOsZ1cA6VIMH2SOx-1
-checkout = https://www.figma.com/design/YPwN5hxL5O1GznOtn8YdvP/Checkout-transparente?node-id=163%3A1149&t=1fBNPs380Qxvjgxc-1
-checkout config = https://www.figma.com/design/Ux8jp21OU4K5AY5wwcJpRF/Checkout?node-id=946%3A4444&t=Wbb5AyOg2a0l3BFQ-1
-configuration = https://www.figma.com/design/NC3u9ILqQicKUtu6NL3hDY/Configura%C3%A7%C3%B5es?node-id=1%3A3&t=cVUVb79Vj9nNVN6K-1
-marketing config = https://www.figma.com/design/JH3NwA5jieB9cUD4MiiFHV/Marketing?node-id=611%3A2131&t=b2EyTXJCr7odqENO-1
-order = https://www.figma.com/design/sNnWQteHei3q8QL0m68iwD/Pedidos?node-id=0%3A1&t=R5LxyPnv3dI1tbgn-1
+    * [Educational content management](https://www.figma.com/design/rkPI9UEJdLYdWOkPg3Zjn9/Gest%C3%A3o-de-Conte%C3%BAdo---%5BDeduca%5D?node-id=2%3A22&t=dsvv4MOeggG0YBA2-1)
 
-2023 - 2024
+        <img style="border-radius:8px;" src="./delinea/deduca/content_management.png" alt="suggestion-page" width="400"/>
 
-Acerta! Promotora
+    * [Job Opportunity creation page ](https://www.figma.com/design/mP09D6LgWmWfupFHZZNwl1/Oportunidades---%5BDeduca%5D?node-id=2%3A22&t=mvP5j54nPwUALVGP-1)
 
-tela de atendimento = https://www.figma.com/design/p2tkZ15D2k090bIgq9k564/Tela-de-atendimento?node-id=0%3A1&t=xe8X2qyfxLmPZpho-1
-consulta de propostas = https://www.figma.com/design/ilUQKWKiCV21igD1Ghs5lk/Consulta-de-propostas?node-id=152%3A715&t=lYo4vlgqgIg7MMtJ-1
-clientes com limite = https://www.figma.com/design/9zLwXTBTNtR3FSeohPPRu6/Clientes-com-limite?node-id=30%3A10867&t=pSYZ1Hp3MONy4UNr-1
-extracao de clientes = https://www.figma.com/design/cbnEdy9pgxOCrQ51EYbkRw/Extra%C3%A7%C3%A3o-de-Clientes?node-id=79%3A2561&t=HQfT3qrDG5zFPiP7-1
-fluxo de vendas = https://www.figma.com/design/VDmwqbhjHmSO9vfp038xks/Fluxo-de-vendas?node-id=409%3A15588&t=1FujHydaQeml0Qfw-1
-design system - components = https://www.figma.com/design/7stZu84smWutAwDseRoDwj/ACERTA!-DS----%F0%9F%A7%A9-Components?node-id=1918%3A643&t=S0p2qQuqIB0oxA6H-1
-design system - foundation = https://www.figma.com/design/FvHkI8XVn865pgSCDAYCvm/ACERTA!-DS---%F0%9F%A7%B1-Foundations?node-id=1918%3A643&t=xMIOjbgx6kJLojKx-1
+        <img style="border-radius:8px;" src="./delinea/deduca/opportunities.png" alt="suggestion-page" width="400"/>
 
+    * [Create colletion of content](https://www.figma.com/design/3zfnxlk5Zo9yXN13smV0yS/Cole%C3%A7%C3%A3o---%5BDeduca%5D?node-id=2%3A22&t=31k1tRbNxqEC0iQP-1)
+
+        <img style="border-radius:8px;" src="./delinea/deduca/collection.png" alt="suggestion-page" width="400"/>
 
 
