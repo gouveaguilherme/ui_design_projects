@@ -1,4 +1,7 @@
-🌟 Welcome to my **UI Design portfolio** repository! 🌟 <br/> Here, I showcase some of the **UI Design** projects I've worked on. From web interfaces to mobile applications, each project represents my passion for creating intuitive and visually appealing user experiences.
+### 🌟 Welcome to my **UI Design portfolio** repository! 🌟
+#### Here, I showcase some of the **UI Design** projects I've worked on. From web interfaces to mobile applications, each project represents my passion for creating intuitive and visually appealing user experiences.
+
+---
 
 ### 🚀 Projects I've worked on
 
@@ -20,6 +23,8 @@
 * [Client with limit](https://www.figma.com/design/9zLwXTBTNtR3FSeohPPRu6/Clientes-com-limite?node-id=30%3A10867&t=pSYZ1Hp3MONy4UNr-1)
 </details>
 
+---
+
 ### [2023] Prova Fácil
 <details>
 <summary>🧩 Design System</summary>
@@ -33,6 +38,8 @@
 * [Appointment Registration](https://www.figma.com/design/ZM3IgLB2UfalGQc3AsP71q/Cadastro-de-Agendamento?node-id=0%3A1&t=7l4Vfed946lb9gxk-1)
 * [Self-Scheduling](https://www.figma.com/design/is80VdTN9LGL655ICXTgXC/Autoagendamento?node-id=0%3A1&t=7nVhgR894Qzh1XyC-1)
 </details>
+
+---
 
 ### [2023] Zouti
 <details>
@@ -52,6 +59,8 @@
 * [Marketing](https://www.figma.com/design/JH3NwA5jieB9cUD4MiiFHV/Marketing?node-id=611%3A2131&t=b2EyTXJCr7odqENO-1) 
 * [Order](https://www.figma.com/design/sNnWQteHei3q8QL0m68iwD/Pedidos?node-id=0%3A1&t=R5LxyPnv3dI1tbgn-1)   
 </details>
+
+---
 
 ### [2022 - 2020] Delinea
 <details>
