@@ -85,6 +85,8 @@ each project represents my passion for creating intuitive and visually appealing
 
 <img style="border-radius:8px;" src="#" alt="" width="400"/>
 
+---
+
 <img src="./logos/logo-zouti.png" alt="logo-delinea" width="200"/>
 
 ### [Design system](https://www.figma.com/design/0m2TBhXwNcFSvflaOmF3OL/%5BZouti%5D---Style-Guide?node-id=1%3A20655&t=tACKrrp2TBHdmBfJ-1)
@@ -228,7 +230,7 @@ each project represents my passion for creating intuitive and visually appealing
 
 <p>loremLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus nisi consectetur, aliquam libero sed, fringilla lorem. Morbi in odio eget ex feugiat iaculis. Mauris ligula diam, mollis vel tristique feugiat, bibendum ut orci. Morbi et dapibus metus, quis semper est. Proin tellus risus, bibendum at libero id, dapibus interdum metus. Ut quis porttitor magna. Pellentesque hendrerit mi sapien, at facilisis odio ultricies sed. Pellentesque urna justo, imperdiet non ligula in, bibendum mollis justo. Nulla eget elit tristique, interdum leo sed, suscipit sem. Mauris viverra turpis at felis porta sodales. Mauris et elit commodo, ultricies diam eget, cursus risus. Aliquam erat volutpat.</p>
 
-<img style="border-radius:8px;" src="./delinea/deduca/central_sugestoes-desktop.png" alt="suggestion-page" width="400"/>
+<img style="border-radius:8px;" src="#" alt="" width="400"/>
 
 ---
     
@@ -236,7 +238,7 @@ each project represents my passion for creating intuitive and visually appealing
 
 <p>loremLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus nisi consectetur, aliquam libero sed, fringilla lorem. Morbi in odio eget ex feugiat iaculis. Mauris ligula diam, mollis vel tristique feugiat, bibendum ut orci. Morbi et dapibus metus, quis semper est. Proin tellus risus, bibendum at libero id, dapibus interdum metus. Ut quis porttitor magna. Pellentesque hendrerit mi sapien, at facilisis odio ultricies sed. Pellentesque urna justo, imperdiet non ligula in, bibendum mollis justo. Nulla eget elit tristique, interdum leo sed, suscipit sem. Mauris viverra turpis at felis porta sodales. Mauris et elit commodo, ultricies diam eget, cursus risus. Aliquam erat volutpat.</p>    
 
-<img style="border-radius:8px;" src="./delinea/deduca/central_sugestoes-mobile.png" alt="suggestion-page" width="200"/>
+<img style="border-radius:8px;" src="#" alt="" width="200"/>
 
 ---
 
@@ -244,7 +246,7 @@ each project represents my passion for creating intuitive and visually appealing
 
 <p>loremLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus nisi consectetur, aliquam libero sed, fringilla lorem. Morbi in odio eget ex feugiat iaculis. Mauris ligula diam, mollis vel tristique feugiat, bibendum ut orci. Morbi et dapibus metus, quis semper est. Proin tellus risus, bibendum at libero id, dapibus interdum metus. Ut quis porttitor magna. Pellentesque hendrerit mi sapien, at facilisis odio ultricies sed. Pellentesque urna justo, imperdiet non ligula in, bibendum mollis justo. Nulla eget elit tristique, interdum leo sed, suscipit sem. Mauris viverra turpis at felis porta sodales. Mauris et elit commodo, ultricies diam eget, cursus risus. Aliquam erat volutpat.</p>    
 
-<img style="border-radius:8px;" src="./delinea/deduca/talent.png" alt="suggestion-page" width="400"/>
+<img style="border-radius:8px;" src="#" alt="" width="400"/>
 
 ---
 
@@ -252,7 +254,7 @@ each project represents my passion for creating intuitive and visually appealing
 
 <p>loremLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus nisi consectetur, aliquam libero sed, fringilla lorem. Morbi in odio eget ex feugiat iaculis. Mauris ligula diam, mollis vel tristique feugiat, bibendum ut orci. Morbi et dapibus metus, quis semper est. Proin tellus risus, bibendum at libero id, dapibus interdum metus. Ut quis porttitor magna. Pellentesque hendrerit mi sapien, at facilisis odio ultricies sed. Pellentesque urna justo, imperdiet non ligula in, bibendum mollis justo. Nulla eget elit tristique, interdum leo sed, suscipit sem. Mauris viverra turpis at felis porta sodales. Mauris et elit commodo, ultricies diam eget, cursus risus. Aliquam erat volutpat.</p>
 
-<img style="border-radius:8px;" src="./delinea/deduca/content_management.png" alt="suggestion-page" width="400"/>
+<img style="border-radius:8px;" src="#" alt="" width="400"/>
 
 ---
 
@@ -260,7 +262,7 @@ each project represents my passion for creating intuitive and visually appealing
 
 <p>loremLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus nisi consectetur, aliquam libero sed, fringilla lorem. Morbi in odio eget ex feugiat iaculis. Mauris ligula diam, mollis vel tristique feugiat, bibendum ut orci. Morbi et dapibus metus, quis semper est. Proin tellus risus, bibendum at libero id, dapibus interdum metus. Ut quis porttitor magna. Pellentesque hendrerit mi sapien, at facilisis odio ultricies sed. Pellentesque urna justo, imperdiet non ligula in, bibendum mollis justo. Nulla eget elit tristique, interdum leo sed, suscipit sem. Mauris viverra turpis at felis porta sodales. Mauris et elit commodo, ultricies diam eget, cursus risus. Aliquam erat volutpat.</p>    
 
-<img style="border-radius:8px;" src="./delinea/deduca/opportunities.png" alt="suggestion-page" width="400"/>
+<img style="border-radius:8px;" src="#" alt="" width="400"/>
 
 ---
 
@@ -268,6 +270,6 @@ each project represents my passion for creating intuitive and visually appealing
 
 <p>loremLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus nisi consectetur, aliquam libero sed, fringilla lorem. Morbi in odio eget ex feugiat iaculis. Mauris ligula diam, mollis vel tristique feugiat, bibendum ut orci. Morbi et dapibus metus, quis semper est. Proin tellus risus, bibendum at libero id, dapibus interdum metus. Ut quis porttitor magna. Pellentesque hendrerit mi sapien, at facilisis odio ultricies sed. Pellentesque urna justo, imperdiet non ligula in, bibendum mollis justo. Nulla eget elit tristique, interdum leo sed, suscipit sem. Mauris viverra turpis at felis porta sodales. Mauris et elit commodo, ultricies diam eget, cursus risus. Aliquam erat volutpat.</p>    
 
-<img style="border-radius:8px;" src="./delinea/deduca/collection.png" alt="suggestion-page" width="400"/>
+<img style="border-radius:8px;" src="#" alt="" width="400"/>
 
 
