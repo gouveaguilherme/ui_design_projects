@@ -4,6 +4,9 @@
 # 🚀 Projects I've worked on
 
 ### [2024-2023] Acerta! Promotora
+
+<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+
 <details>
 <summary>🧩 Design System</summary>
 
@@ -24,6 +27,9 @@
 ---
 
 ### [2023] Prova Fácil
+
+<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+
 <details>
 <summary>🧩 Design System</summary>
 
@@ -40,6 +46,9 @@
 ---
 
 ### [2023] Zouti
+
+<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+
 <details>
 <summary>🧩 Design System</summary>
 
@@ -61,10 +70,13 @@
 ---
 
 ### [2022 - 2020] Delinea
+
+<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+
 <details>
 <summary>🧩 Design System</summary>
 
-* [design system](https://www.figma.com/design/ifqok4gBYY61YtARZkus37/%F0%9F%A7%A9-DStore---Design-System?node-id=235%3A1920&t=JKvT8Nwj1ScY0bd7-1)
+* [[DS] Design System](https://www.figma.com/design/ifqok4gBYY61YtARZkus37/%F0%9F%A7%A9-DStore---Design-System?node-id=235%3A1920&t=JKvT8Nwj1ScY0bd7-1)
 </details>
 
 <details>
@@ -73,13 +85,13 @@
 <summary>DStore</summary>
 
 * [Dashboard Admin System](https://www.figma.com/design/5pZoR5DKqPkhjyfprVAe8s/Dashboard---%5BDstore%5D?node-id=2%3A22&t=4ZTZbXWBcXCZVSsc-1)   
-* [Ambiente de aquisição](https://www.figma.com/design/V6G5tHEqenx3vc3ox0pjD1/DStore-Loja?node-id=191%3A4843&t=slNoaS5Qwwcq9qFi-1)
-* [Material management](https://www.figma.com/design/tEXapjgtlwnB3njtNSt77B/Gerenciamento-de-Materiais---%5BDstore%5D?node-id=2%3A22&t=y52dyk0I9ncHEjya-1)
-* [User management](https://www.figma.com/design/79Ll4u1h80jkONgXXYx3je/Gerenciamento-de-usu%C3%A1rios---%5BDstore%5D?node-id=201%3A2910&t=eis8Qqy9ZhtQpGZf-1)     
-* [Profile manager](https://www.figma.com/design/SUuHTEm4JcLd4X9ZgJvOED/Perfil-Manager---%5BDstore%5D?node-id=2%3A22&t=UhL0NSuht06Aci7w-1)  
+* [Acquisition Enviroment](https://www.figma.com/design/V6G5tHEqenx3vc3ox0pjD1/DStore-Loja?node-id=191%3A4843&t=slNoaS5Qwwcq9qFi-1)
+* [Content Management](https://www.figma.com/design/tEXapjgtlwnB3njtNSt77B/Gerenciamento-de-Materiais---%5BDstore%5D?node-id=2%3A22&t=y52dyk0I9ncHEjya-1)
+* [User Management](https://www.figma.com/design/79Ll4u1h80jkONgXXYx3je/Gerenciamento-de-usu%C3%A1rios---%5BDstore%5D?node-id=201%3A2910&t=eis8Qqy9ZhtQpGZf-1)     
+* [Profile Manager](https://www.figma.com/design/SUuHTEm4JcLd4X9ZgJvOED/Perfil-Manager---%5BDstore%5D?node-id=2%3A22&t=UhL0NSuht06Aci7w-1)  
 * [Create Course](https://www.figma.com/design/dGbx3HVoaxOMahEbzpeWM3/Feature-de-criar-curso?node-id=0%3A1&t=vIo4X64FouKxK1pS-1)    
-* [Invoicing](https://www.figma.com/design/vowvWLnc6fIMtXyxFZsdxP/Faturamento---%5BDstore%5D?node-id=201%3A2910&t=GjGHK80sjmtECuH2-1)
-* [Ambiente de locação](https://www.figma.com/design/tWVzRev4nH4bw6DnfaO7Kb/Loca%C3%A7%C3%A3o-Fluxo-Principal---%5BDstore%5D?node-id=2%3A22&t=Rm8J3WCglx7Heb3e-1) 
+* [Revenue](https://www.figma.com/design/vowvWLnc6fIMtXyxFZsdxP/Faturamento---%5BDstore%5D?node-id=201%3A2910&t=GjGHK80sjmtECuH2-1)
+* [Content Renting Enviroment](https://www.figma.com/design/tWVzRev4nH4bw6DnfaO7Kb/Loca%C3%A7%C3%A3o-Fluxo-Principal---%5BDstore%5D?node-id=2%3A22&t=Rm8J3WCglx7Heb3e-1) 
 </details>
 
 <details>
@@ -87,7 +99,7 @@
 
 * [Content Management](https://www.figma.com/design/rkPI9UEJdLYdWOkPg3Zjn9/Gest%C3%A3o-de-Conte%C3%BAdo---%5BDeduca%5D?node-id=2%3A22&t=dsvv4MOeggG0YBA2-1) 
 * [Create Content Colletion](https://www.figma.com/design/3zfnxlk5Zo9yXN13smV0yS/Cole%C3%A7%C3%A3o---%5BDeduca%5D?node-id=2%3A22&t=31k1tRbNxqEC0iQP-1)
-* [User search (Talent Page)](https://www.figma.com/design/PiFkTQuryEbuv1jjGZyrom/Talentos---%5BDeduca%5D?node-id=2%3A22&t=Irc9y2whxHXaNElT-1)  
+* [User Search (Talent Page)](https://www.figma.com/design/PiFkTQuryEbuv1jjGZyrom/Talentos---%5BDeduca%5D?node-id=2%3A22&t=Irc9y2whxHXaNElT-1)  
 * [Job Opportunity (Creation Page) ](https://www.figma.com/design/mP09D6LgWmWfupFHZZNwl1/Oportunidades---%5BDeduca%5D?node-id=2%3A22&t=mvP5j54nPwUALVGP-1)  
 * [Suggestion Center (Desktop version)](https://www.figma.com/design/EqaL9fUeI6LFi3o0MokSDb/Central-de-Sugest%C3%B5es---Deduca?node-id=0%3A1&t=cttGx8gyVmEDSZUI-1)  
 * [Suggestion Center (Mobile version)](https://www.figma.com/design/EqaL9fUeI6LFi3o0MokSDb/Central-de-Sugest%C3%B5es---Deduca?node-id=43%3A1155&t=cttGx8gyVmEDSZUI-1)  
