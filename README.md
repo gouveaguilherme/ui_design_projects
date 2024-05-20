@@ -6,12 +6,9 @@
 
 ### [2024-2023] Acerta! Promotora
 
-<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+<img scr="./cover-test.png" alt="workcover">
 
 <details>
-
-<img scr="./cover-test" alt="workcover">
-
 <summary>🧩 Design System</summary>
 
 - [[AP] Design System - Components](https://www.figma.com/design/7stZu84smWutAwDseRoDwj/ACERTA!-DS----%F0%9F%A7%A9-Components?node-id=1918%3A643&t=S0p2qQuqIB0oxA6H-1)
