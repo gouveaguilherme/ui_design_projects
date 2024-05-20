@@ -6,7 +6,7 @@
 
 ### [2024-2023] Acerta! Promotora
 
-<img src="./images/cover-test.png" alt="workcover">
+<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
 
 <details>
 <summary>🧩 Design System</summary>
@@ -29,7 +29,7 @@
 
 ### [2023] Prova Fácil
 
-<img src="./images/cover-test.png" alt="workcover">
+<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
 
 <details>
 <summary>🧩 Design System</summary>
@@ -48,7 +48,7 @@
 
 ### [2023] Zouti
 
-<img src="./images/cover-test.png" alt="workcover">
+<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
 
 <details>
 <summary>🧩 Design System</summary>
@@ -72,7 +72,7 @@
 
 ### [2022 - 2020] Delinea
 
-<img src="./images/cover-test.png" alt="workcover">
+<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
 
 <details>
 <summary>🧩 Design System</summary>
