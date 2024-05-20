@@ -6,7 +6,7 @@
 
 ### [2024-2023] Acerta! Promotora
 
-<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+<img src="./images/acerta.png" alt="acerta">
 
 <details>
 <summary>🧩 Design System</summary>
