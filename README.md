@@ -9,7 +9,7 @@
 
 <details>
 <summary>🧩 Design System</summary>
-
+<img scr="#" alt="workcover">
 * [[AP] Design System - Components](https://www.figma.com/design/7stZu84smWutAwDseRoDwj/ACERTA!-DS----%F0%9F%A7%A9-Components?node-id=1918%3A643&t=S0p2qQuqIB0oxA6H-1)
 * [[AP] Design System - Foundation](https://www.figma.com/design/FvHkI8XVn865pgSCDAYCvm/ACERTA!-DS---%F0%9F%A7%B1-Foundations?node-id=1918%3A643&t=xMIOjbgx6kJLojKx-1)
 </details>
