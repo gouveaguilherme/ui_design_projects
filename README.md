@@ -1,4 +1,4 @@
-### 🌟 Welcome to my **UI Design portfolio** repository! 🌟
+### 🌟 Welcome to my **UI Design portfolio**! 🌟
 
 #### Here, I showcase some of the **UI Design** projects I've worked on. Each project represents my passion for creating intuitive and visually appealing user experiences.
 
