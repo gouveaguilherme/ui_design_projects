@@ -6,7 +6,7 @@
 
 ### [2024-2023] Acerta! Promotora
 
-<img src="./images/acerta.png" alt="acerta">
+<img src="./covers/acerta.png" alt="acerta">
 
 <details>
 <summary>🧩 Design System</summary>
@@ -29,7 +29,7 @@
 
 ### [2023] Prova Fácil
 
-<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+<img src="./covers/provafacil.png" alt="prova_facil">
 
 <details>
 <summary>🧩 Design System</summary>
@@ -48,7 +48,7 @@
 
 ### [2023] Zouti
 
-<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+<img src="./covers/zouti.png" alt="zouti">
 
 <details>
 <summary>🧩 Design System</summary>
@@ -61,7 +61,6 @@
 
 - [Product List](https://www.figma.com/design/B9IqLwHmhfi6SpDkZj4goH/Produtos?node-id=0%3A1&t=g9nK2WEark5xVy8f-1)
 - [General Report](https://www.figma.com/design/WcSSfLfWuQnj2r7FgM8Bvz/Relat%C3%B3rio-Geral?node-id=96%3A1882&t=SOsZ1cA6VIMH2SOx-1)
-- [Checkout](https://www.figma.com/design/YPwN5hxL5O1GznOtn8YdvP/Checkout-transparente?node-id=163%3A1149&t=1fBNPs380Qxvjgxc-1)
 - [Checkout Config](https://www.figma.com/design/Ux8jp21OU4K5AY5wwcJpRF/Checkout?node-id=946%3A4444&t=Wbb5AyOg2a0l3BFQ-1)
 - [configuration](https://www.figma.com/design/NC3u9ILqQicKUtu6NL3hDY/Configura%C3%A7%C3%B5es?node-id=1%3A3&t=cVUVb79Vj9nNVN6K-1)
 - [Marketing](https://www.figma.com/design/JH3NwA5jieB9cUD4MiiFHV/Marketing?node-id=611%3A2131&t=b2EyTXJCr7odqENO-1)
@@ -72,7 +71,7 @@
 
 ### [2022 - 2020] Delinea
 
-<!-- ADICIONAR IMAGEM COM ALGUNS TRABALHOS AQUI-->
+<img src="./covers/delinea.png" alt="delinea">
 
 <details>
 <summary>🧩 Design System</summary>
