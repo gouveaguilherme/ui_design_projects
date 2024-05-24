@@ -71,7 +71,7 @@
 
 ### [2022 - 2020] Delinea
 
-<img src="./covers/delinea.png" alt="delinea">
+<img src="./covers/delineaedtech.png" alt="delinea">
 
 <details>
 <summary>🧩 Design System</summary>
