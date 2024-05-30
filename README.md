@@ -4,7 +4,7 @@
 
 # 🚀 Projects I've worked on
 
-### [2024-2023] Acerta! Promotora
+### [2023-2024] Acerta! Promotora
 
 <img src="./covers/acerta.png" alt="acerta">
 
@@ -69,7 +69,7 @@
 
 ---
 
-### [2022 - 2020] Delinea
+### [2020 - 2022] Delinea
 
 <img src="./covers/delineaedtech.png" alt="delinea">
 
